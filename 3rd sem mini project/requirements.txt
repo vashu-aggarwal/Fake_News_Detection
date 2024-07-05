@@ -1,3 +1,6 @@
 streamlit
 pandas
+string
+pickle
+re
 scikit-learn
